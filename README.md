@@ -13,7 +13,7 @@ This is a distance calculator, it calculates distance based on what the given is
 - x2 =
 - y2 =
 ## Sample Output 
-d = ((7 - 2)2) + ((8 - 3)2) =
+d = ((7 - 2)2) + ((8 - 3)2) = 50
 ## Author
 Name: Paulyn Lia D. Arboleda
 Section: 8 - Acacia
